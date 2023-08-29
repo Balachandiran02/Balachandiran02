@@ -1,6 +1,5 @@
-- Currently a student
-- Loves Onepiece
-- active learner 
+- Interested on cloud
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balachandiran02)](https://github.com/balachandiran02/github-readme-stats)
 
